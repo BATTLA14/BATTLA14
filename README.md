@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Padam Batala.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning MERN.
 
 <!---
 BATTLA14/BATTLA14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
